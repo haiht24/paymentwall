@@ -1,0 +1,10 @@
+[
+  {
+    "userId": 10,
+    "amount": 10100,
+    "currency": "vnd",
+    "paymentMethod": "creditCard",
+    "status": true,
+    "createdDate": "2017-06-22 01:10:01"
+  }
+]

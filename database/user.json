@@ -1,0 +1,21 @@
+[
+  {
+    "id": 10,
+    "fullName": "Ha Thanh Hai",
+    "email": "haiht369@gmail.com",
+    "pwd": "baa1e3bc0b28fb2c7efae2f98004c6e4",
+    "company": "BOGO VIETNAM",
+    "paymentMethod": [
+      {
+        "method": "creditCard",
+        "cardNumber": "0123456789",
+        "expire": "08/2017",
+        "cvv": "888",
+        "NameOnCard": "Ha Thanh Hai"
+      },
+      {
+        "method": "bankTransfer"
+      }
+    ]
+  }
+]
